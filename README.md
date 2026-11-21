@@ -15,12 +15,14 @@ A technical breakdown and showcase of my character rigging workflow in **Blender
 ### 1. Full-Body Armature & Material Setup
 *Full-body skeleton hierarchy aligned with the character mesh, including limb, torso, and hand/finger joints with configured shaders.*
 
-![Full Body Rig](images/brian.png)
+![Full Body Rig] <img width="1920" height="991" alt="brian" src="https://github.com/user-attachments/assets/76eb4ba9-da21-49ec-b26e-dbd3f0956fb2" />
+
 
 ### 2. Facial Rig & Upper-Body Joint Breakdown
 *Close-up view of the facial bone cluster and upper-body armature prepared for expression posing and deformation testing.*
 
-![Facial Rig Breakdown](images/biney.png)
+![Facial Rig Breakdown] <img width="1920" height="991" alt="biney" src="https://github.com/user-attachments/assets/c7fc8c97-74fc-4962-87d2-f6d8944ca1ad" />
+
 
 ---
 
